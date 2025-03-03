@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFormsApps", "SimpleFormsApps\SimpleFormsApps.csproj", "{57820D7A-A936-4ACB-8977-955DBB3C9568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57820D7A-A936-4ACB-8977-955DBB3C9568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57820D7A-A936-4ACB-8977-955DBB3C9568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57820D7A-A936-4ACB-8977-955DBB3C9568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57820D7A-A936-4ACB-8977-955DBB3C9568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C94EDB9-2FC9-45C8-9309-8D2204BFF119}
+	EndGlobalSection
+EndGlobal

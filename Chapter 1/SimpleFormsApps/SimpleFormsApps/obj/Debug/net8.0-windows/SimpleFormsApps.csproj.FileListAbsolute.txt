@@ -1,0 +1,16 @@
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\SimpleFormsApps.Form1.resources
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\SimpleFormsApps.csproj.GenerateResource.cache
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\SimpleFormsApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\SimpleFormsApps.AssemblyInfoInputs.cache
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\SimpleFormsApps.AssemblyInfo.cs
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\SimpleFormsApps.csproj.CoreCompileInputs.cache
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\bin\Debug\net8.0-windows\SimpleFormsApps.exe
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\bin\Debug\net8.0-windows\SimpleFormsApps.deps.json
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\bin\Debug\net8.0-windows\SimpleFormsApps.runtimeconfig.json
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\bin\Debug\net8.0-windows\SimpleFormsApps.dll
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\bin\Debug\net8.0-windows\SimpleFormsApps.pdb
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\SimpleFormsApps.dll
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\refint\SimpleFormsApps.dll
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\SimpleFormsApps.pdb
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\SimpleFormsApps.genruntimeconfig.cache
+C:\Users\buman\source\repos\SimpleFormsApps\SimpleFormsApps\obj\Debug\net8.0-windows\ref\SimpleFormsApps.dll
